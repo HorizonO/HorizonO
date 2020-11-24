@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on GZ
+- 🔭 I’m currently working on 🇨🇳
 - 🌱 I’m currently learning vue
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: xlinasaplife@163.com
 - 😄 Pronouns: 🏀
 - ⚡ Fun fact: 🏀🏸📷🎸🎮🏎🖥
+![](https://github-readme-stats.vercel.app/api?username=HorizonO)
 
